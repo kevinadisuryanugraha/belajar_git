@@ -1,6 +1,6 @@
 1. ls -> melihat isi folder
 2. pwd -> melihat PATH folder
-3. cd -> Mengakses folder
+3. cd -> Mengakses foldergit commit "Menambahkan comment di file list_command"
 4. mkdir -> membuat folder baru
 5. git config --list -> mengecek pengaturan git
 6. git status -> ngecek status git 
@@ -13,3 +13,4 @@
 13. git branch -> melihat semua cabang
 14. git init -> menginisiasi folder jadi repo
 15. git reflog -> untuk melihat riwayat commit yang baru
+16. git restore -> untuk undo file woorking ara
